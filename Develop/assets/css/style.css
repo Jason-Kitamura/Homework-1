@@ -17,6 +17,7 @@ body {
     width: 100%;
 }
 
+
 #nav {
     width:70%;
     font-size: 100%;
@@ -26,6 +27,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
+
 
 .header h1 .seo {
     color: #d9dcd6;
